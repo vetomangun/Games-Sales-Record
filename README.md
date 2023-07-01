@@ -4,4 +4,4 @@
 ## Publisher published most of the games
 ## Developer developed most of the games
 ## Series has the most sales
-## Series has the most games
+## Series have the most games
