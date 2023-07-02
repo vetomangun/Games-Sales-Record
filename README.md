@@ -23,7 +23,8 @@ Contains an analysis of the games on the market using SQL
 
 ## E. Visualization
 
-![image](https://github.com/vetomangun/Games-Sales-Record/assets/138031127/9589c4e3-9b29-4ff1-9b68-80648e9567b1)
+![image](https://github.com/vetomangun/Games-Sales-Record/assets/138031127/99e03c1b-25fd-41fc-bc91-849ddad30ecb)
+
 
 
 
