@@ -17,9 +17,9 @@ The gaming industry is an interesting field to explore, it would be fun to know 
 ### 1. games_sales.csv
 It is a dataset given by Revou to participants.
 ### 2. gamessales_analytics.ipynb
-Contains the necessary analysis to find out about games that have been spread using Python
+Contains the necessary analysis to find out about games that have been spread using Python.
 ### 3. gamessales_analytics.sql
-Contains an analysis of the games on the market using SQL
+Contains an analysis of the games on the market using SQL.
 
 ## E. Visualization
 
