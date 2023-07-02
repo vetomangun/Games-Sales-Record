@@ -24,7 +24,4 @@ Contains an analysis of the games on the market using SQL.
 ## E. Visualization
 
 ![image](https://github.com/vetomangun/Games-Sales-Record/assets/138031127/99e03c1b-25fd-41fc-bc91-849ddad30ecb)
-
-
-
-
+*show the top 5 values in each column
