@@ -14,11 +14,11 @@ The gaming industry is an interesting field to explore, it would be fun to know 
 🔗= https://github.com/vetomangun/Games-Sales-Record/blob/main/games_sales.csv
 
 ## D. File Description
-### 1. games_sales.csv
+### 1. [games_sales.csv](https://github.com/vetomangun/Games-Sales-Record/blob/main/games_sales.csv)
 It is a dataset given by Revou to participants.
-### 2. gamessales_analytics.ipynb
+### 2. [gamessales_analytics.ipynb](https://github.com/vetomangun/Games-Sales-Record/blob/main/gamessales_analytics.ipynb)
 Contains the necessary analysis to find out about games that have been spread using Python.
-### 3. gamessales_analytics.sql
+### 3. [gamessales_analytics.sql](https://github.com/vetomangun/Games-Sales-Record/blob/main/gamessales_analytics.sql)
 Contains an analysis of the games on the market using SQL.
 
 ## E. Visualization
